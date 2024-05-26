@@ -1,2 +1,2 @@
-# username.github.io
+# coursera-test
 Coursera test repository 
